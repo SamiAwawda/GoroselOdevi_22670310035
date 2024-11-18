@@ -1,1 +1,1 @@
-Görsel Programlama Ödevı Samı T A Awawda 22670310035
+Görsel Programlama 2.Ödevı Samı T A Awawda 22670310035
