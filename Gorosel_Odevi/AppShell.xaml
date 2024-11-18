@@ -16,7 +16,7 @@
                        HeightRequest="50"
                        WidthRequest="50"/>
                 <Label Grid.Column="1"
-                       Text="Mohammed Al-Mashdli"
+                       Text=""
                        VerticalTextAlignment="Center"
                        FontSize="28"
                        FontAttributes="Bold"
